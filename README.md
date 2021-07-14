@@ -1,7 +1,7 @@
 # Jane-Street-Blotto
 My solution to a variation of the classic Blotto game proposed by Jane Street.
 
-##Puzzle Conditions
+## Puzzle Conditions
 
 There are 10 castles, numbered 1, 2, 3, ... , 10, and worth 1, 2, 3, ... , 10 points respectively. You have 100 soldiers, which you can
 allocate between the castles however you wish. Your opponent also (independently) does the same. The number of soldiers on
@@ -19,7 +19,7 @@ In the example match above, Alice wins castles 2, 4, and 5, for a total of 11 po
 castles 9 and 10 — for a total of 41 points. (No one wins castles 3, since that was a tie. Alice does not win castles 9 or 10 because
 those were awarded to Carol after she won castles 6 through 8.).
 
-##Task
+## Task
 
 We're going to play a tournament. You get one entry and your final score is the average of your scores playing head-to-head
 against entries from over 300 Jane Streeters. An entry should be submitted as a list of 10 non-negative integers, adding up to 100,
