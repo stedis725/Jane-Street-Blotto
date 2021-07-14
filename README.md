@@ -31,6 +31,6 @@ What's your entry? How did you go about coming up with it?
 
 My final solution was [1, 1, 42, 27, 11, 5, 6, 3, 4, 0], which I arrived at using a variation of simulated annealing in which the objective function was updated throughout the optimization process as improved solutions were discovered, allowing the final solution to better perform against more sophisticated strategies that would be utilized by other competitors.  
 
-For more details, check out my solution write-up [ here ](Solution Write-Up.pdf) as well as my python code.
+For more details, check out my solution write-up [here](Solution Write-Up.pdf) as well as my python code.
 
 I successfully gained admission to Jane Street's SEE Program as a result of my perfromance in this tournament.
