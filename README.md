@@ -24,4 +24,5 @@ those were awarded to Carol after she won castles 6 through 8.).
 We're going to play a tournament. You get one entry and your final score is the average of your scores playing head-to-head
 against entries from over 300 Jane Streeters. An entry should be submitted as a list of 10 non-negative integers, adding up to 100,
 where the Nth element is the number of soldiers being sent to castle N.
+
 What's your entry? How did you go about coming up with it?
