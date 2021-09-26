@@ -31,6 +31,6 @@ What's your entry? How did you go about coming up with it?
 
 My final solution was [1, 1, 42, 27, 11, 5, 6, 3, 4, 0], which I arrived at using a variation of stochastic hill climbing in which the objective function was updated throughout the optimization process as improved solutions were discovered, allowing the final solution to better perform against more sophisticated strategies that would be utilized by other competitors.  
 
-For more details, check out my solution write-up [here](https://github.com/stedis725/Jane-Street-Blotto/blob/main/Solution%20Write-Up.pdf) my python code [here](https://github.com/stedis725/Jane-Street-Blotto/blob/main/Blotto.ipynb).
+For more details, check out my solution write-up [here](https://github.com/stedis725/Jane-Street-Blotto/blob/main/Blotto%20Write-Up.pdf) my python code [here](https://github.com/stedis725/Jane-Street-Blotto/blob/main/Blotto.ipynb).
 
 I successfully gained admission to Jane Street's SEE Program as a result of my perfromance in this tournament.
