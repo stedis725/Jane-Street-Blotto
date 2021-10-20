@@ -10,7 +10,7 @@ no one gets points). In a given match, castles are fought in order (starting wit
 castles, that player is automatically awarded all remaining castles.
 
 For example, here is one potential match:
-| District | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 | C10 |
+|          | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 | C10 |
 |----------|----|----|----|----|----|----|----|----|----|-----|
 | Alice    | 10 | 10 | 10 | 10 | 20 | 0  | 0  | 0  | 20 | 20  |
 | Carol    | 20 | 0  | 10 | 5  | 10 | 5  | 10 | 20 | 0  | 0   |
